@@ -1,5 +1,5 @@
 cli_temcafe
-===========
+
 ---
 
 **Próposito:**
@@ -35,7 +35,7 @@ Possível respostas:
 
 
 ### License
----
+===========
 
 MIT: [http://rem.mit-license.org](http://rem.mit-license.org)
 
