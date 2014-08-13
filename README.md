@@ -1,12 +1,12 @@
-cli_temcafe
+#cli_temcafe
 
 ---
 
-**Próposito:**
 
 Via linha de comando exibir a resposta de uma requisição http.
  
 **Extensão:**
+
 *cli_temcafe* é uma extensão do projeto [temcafe](https://github.com/desireesantos/temcafe), voltado para o universo open hardware. O mesmo tem o propósito de exibir no terminal o nível de café de uma cafeteira.
 
 
@@ -32,7 +32,6 @@ Possível respostas:
  **'Come to drink a fresh coffee'** -> Significa 80% - 100% de café   
 
 	
-
 
 ### License
 ===========
