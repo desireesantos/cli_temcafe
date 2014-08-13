@@ -1,5 +1,6 @@
 cli_temcafe
 ===========
+---
 
 **Próposito:**
 
@@ -30,6 +31,13 @@ Possível respostas:
  
  **'Come to drink a fresh coffee'** -> Significa 80% - 100% de café   
 
+	
+
+
+### License
+---
+
+MIT: [http://rem.mit-license.org](http://rem.mit-license.org)
 
 
 
