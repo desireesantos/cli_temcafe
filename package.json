@@ -10,17 +10,16 @@
     "type": "git",
     "url": "https://github.com/desireesantos/cli_temcafe"
   },
-  "keywords": [
-    "cli",
-    "command",
-    "line",
-    "m2m",
-    "iot"
-  ],
+  "main"        : "./lib/cli_temcafe.js",
+  "bin"         : {
+    "gmailto"   : "./lib/cli_temcafe.js"
+  },
+  "keywords": ["cli","command line","m2m","iot"],
   "author": "Desiree Santos",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/desireesantos/cli_temcafe/issues"
   },
-  "homepage": "https://github.com/desireesantos/cli_temcafe"
+  "homepage": "https://github.com/desireesantos/cli_temcafe",
+  "preferGlobal": true
 }
