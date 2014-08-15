@@ -1,25 +1,25 @@
 {
   "name": "cli_temcafe",
   "version": "1.0.0",
-  "description": "Get the server output through command line",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/desireesantos/cli_temcafe"
-  },
-  "main"        : "./lib/cli_temcafe.js",
-  "bin"         : {
-    "gmailto"   : "./lib/cli_temcafe.js"
-  },
-  "keywords": ["cli","command line","m2m","iot"],
+  "description": "Show message from request http in a terminal.",
+  "main": "./lib/temcafe.js",
+  "keywords": [
+    "cli",
+    "terminal",
+    "m2m"
+  ],
   "author": "Desiree Santos",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/desireesantos/cli_temcafe/issues"
+  "repository": "git://github.com/desireesantos/cli_temcafe.git",
+  "bin": {
+    "temcafe": "./lib/temcafe.js"
   },
-  "homepage": "https://github.com/desireesantos/cli_temcafe",
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "request": "~2.40.0",
+    "assert": "~1.1.1",
+    "chai": "~1.9.1",
+    "mocha": "~1.21.4",
+    "underscore": "~1.6.0"
+  }
 }
