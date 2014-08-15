@@ -1,7 +1,7 @@
 {
   "name": "cli_temcafe",
-  "version": "1.0.0",
-  "description": "Show message from request http in a terminal.",
+  "version": "0.0.1",
+  "description": "Show message from request http in a terminal",
   "main": "./lib/temcafe.js",
   "keywords": [
     "cli",
