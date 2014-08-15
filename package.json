@@ -14,10 +14,10 @@
   "bin": {
     "temcafe": "./lib/temcafe.js"
   },
-  "preferGlobal": true,
   "dependencies": {
     "request": "~2.40.0",
     "assert": "~1.1.1",
     "mocha": "~1.21.4",
   }
+  "preferGlobal": true,
 }
