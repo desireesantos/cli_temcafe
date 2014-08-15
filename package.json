@@ -8,7 +8,7 @@
     "terminal",
     "m2m"
   ],
-  "author": "Desiree Santos",
+  "author": "Desiree Santos <desisant@gmail.com>",
   "license": "MIT",
   "repository": "git://github.com/desireesantos/cli_temcafe.git",
   "bin": {
