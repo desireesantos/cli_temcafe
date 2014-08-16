@@ -1,21 +1,28 @@
 {
   "name": "cli_temcafe",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "description": "Show message from http request in the terminal",
-
-  "author": "Desiree Santos",
-  "license": "MIT",
-  "keywords": ["cli","terminal","m2m"],
   "main": "./lib/cli_temcafe.js",
-  "bin"         : {
-    "cli_temcafe"   : "./lib/cli_temcafe.js"
+  "bin": {
+    "cli_temcafe": "./lib/cli_temcafe.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/desireesantos/cli_temcafe.git"},
+    "url": "https://github.com/desireesantos/cli_temcafe.git"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "m2m"
+  ],
+  "author": "Desiree Santos <desisant@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "request": "~2.40.0",
     "assert": "~1.1.1",
-    "mocha": "~1.21.4"},
+    "mocha": "~1.21.4",
+    "bash-color": "0.0.3",
+    "color": "~0.7.1"
+  },
   "preferGlobal": true
 }
