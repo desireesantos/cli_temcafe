@@ -1,6 +1,6 @@
 {
   "name": "cli_temcafe",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "Show message from http request in the terminal",
 
   "author": "Desiree Santos",
