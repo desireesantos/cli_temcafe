@@ -1,14 +1,14 @@
 {
   "name": "cli_temcafe",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Show message from http request in the terminal",
 
   "author": "Desiree Santos",
   "license": "MIT",
   "keywords": ["cli","terminal","m2m"],
-  "main": "./lib/temcafe.js",
+  "main": "./lib/cli_temcafe.js",
   "bin"         : {
-    "cli_temcafe"   : "./lib/temcafe.js"
+    "cli_temcafe"   : "./lib/cli_temcafe.js"
   },
   "repository": {
     "type": "git",
