@@ -1,28 +1,26 @@
 #cli_temcafe
+View the response of a http request in terminal
 
-
-
-Exibir a resposta de uma requisição http no terminal.
  
 **Extensão:**
 &nbsp;
-*cli_temcafe* é uma extensão do projeto [temcafe](https://github.com/desireesantos/temcafe). O mesmo tem o propósito de exibir no terminal uma mensagem de acordo com a quantidade de café. 
+*cli_temcafe* is an extension of the project [temcafe](https://github.com/desireesantos/temcafe). The same is for the purpose of displaying the terminal message in accordance with the amount of coffee.
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-###Instalar:
+###Install:
 ===
 
 `npm install cli_temcafe -g`
 
- `temcafe`
+ `cli_temcafe`
 
 
 
 	
 &nbsp;&nbsp;&nbsp;
 
-###Mensagens:
+###Messages:
 ===
 * **No coffee**  
 * **Run the coffee is finishing**
