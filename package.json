@@ -1,10 +1,10 @@
 {
   "name": "cli_temcafe",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Show message from http request in the terminal",
   "main": "./lib/cli_temcafe.js",
   "bin": {
-    "cli_temcafe": "./lib/cli_temcafe.js"
+    "temcafe": "./lib/cli_temcafe.js"
   },
   "repository": {
     "type": "git",
