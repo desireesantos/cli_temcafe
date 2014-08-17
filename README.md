@@ -9,19 +9,14 @@ View the response of a http request in terminal
 &nbsp;&nbsp;
 
 ###Install:
-===
 
 `npm install cli_temcafe -g`
 
- `cli_temcafe`
+ `temcafe`
 
-
-
-	
 &nbsp;&nbsp;&nbsp;
 
 ###Messages:
-===
 * **No coffee**  
 * **Run the coffee is finishing**
 * **Has coffee**   
@@ -29,7 +24,6 @@ View the response of a http request in terminal
 
 &nbsp;&nbsp;&nbsp;
 ### License
-===
 
 This is licensed under the feel-free-to-do-whatever-you-want-to-do license.
 
